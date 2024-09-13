@@ -6,7 +6,7 @@ Below are the works making up my public writing portfolio.
 The works are broken into the following categories:
 - [Content writing](#content-writing)
 - [Technical writing](#technical-writing)
-- [Oil and gas education](#oil-&-gas-education)
+- [Oil and gas education](#oil--gas-education)
 
 ## Content writing
 
