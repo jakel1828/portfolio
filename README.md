@@ -6,7 +6,7 @@ Below are the works making up my public writing portfolio.
 The works are broken into the following categories:
 - [Content writing](#content-writing)
 - [Technical writing](#technical-writing)
-- [Oil and gas education](#oil-and-gas-education)
+- [Oil and gas education](#oil-&-gas-education)
 
 ## Content writing
 
@@ -66,3 +66,5 @@ Links below direct to PDFs hosted on GitHub.
 
 - [Division order interest calculations](https://github.com/jakel1828/portfolio/raw/main/oil-and-gas-education/division-order-interest-calculations.pdf)
 A slideshow explaining simply how to perform division order interest calculations
+
+[Back to top](#contents)
