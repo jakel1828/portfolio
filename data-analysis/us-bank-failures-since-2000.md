@@ -22,7 +22,7 @@ The data originated in CSV format and was simple compared to the project includi
 
 Below is a screenshot preview of the basic data:
 
-![A screenshot of the CSV data used for data analysis of U.S. bank failures since 2000](/images/data-analysis/us-bank-failures-since-2000/data-snippet.JPG)
+![A screenshot of the CSV data used for data analysis of U.S. bank failures since 2000](/images/us-bank-failures-since-2000/data-snippet.JPG)
 
 For this project, **I leaned on the following columns**:
 
@@ -40,7 +40,7 @@ Below are answers to some of the questions I had when considering this dataset.
 
 I first asked myself which states had the most total failures in the 21st century.
 
-![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by state](/images/data-analysis/us-bank-failures-since-2000/by-state.jpg)
+![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by state](/images/us-bank-failures-since-2000/by-state.jpg)
 
 Georgia dominated with a total of 93, accounting for 16% of all bank failures.
 
@@ -69,7 +69,7 @@ After Minnesota, you see the numbers start on a steady decline.
 
  The dataset tells what cities have had banks fail, so I was curious which cities ranked in the top 10.
 
-![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by top 10 cities](/images/data-analysis/us-bank-failures-since-2000/top-10-cities.jpg)
+![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by top 10 cities](/images/us-bank-failures-since-2000/top-10-cities.jpg)
 
 I was interested to see that while the state of Illinois ranked #3 in terms of U.S. bank failures since 2000, the state is in fact home to the city with the most bank failures: Chicago.
 
@@ -97,7 +97,7 @@ Failed banks are often acquired by surviving, more resilient institutions.
 
 So which institutions have gained the most from U.S. bank failures since 2000?
 
-![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 - top 12 acquirers](/images/data-analysis/us-bank-failures-since-2000/top-12-acquirers.jpg)
+![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 - top 12 acquirers](/images/us-bank-failures-since-2000/top-12-acquirers.jpg)
 
 State Bank and Trust Company leads the pack with 12 acquisitions.
 
@@ -140,7 +140,7 @@ Below are **a few notes about my worksheets**:
 ## BONUS: Data visualization via Power BI
 My original analysis was done exclusively in Excel. I've since added a simple data visualization report via Power BI to condense this analysis.
 
-![A screenshot of a data visualization report in Power BI](/images/data-analysis/us-bank-failures-since-2000/data-visualization-via-power-bi.JPG)
+![A screenshot of a data visualization report in Power BI](/images/us-bank-failures-since-2000/data-visualization-via-power-bi.JPG)
 
 This Power BI dashboard consolidates all the previous data analysis into one place.
 
@@ -150,7 +150,7 @@ Say you want to see how Arizona has done from 2009 through 2025.
 
 Simply change the parameters of the report via the filters, and you get the answers you're looking for.
 
-![A screenshot of filtering data visualization report in Power BI](/images/data-analysis/us-bank-failures-since-2000/data-visualization-example.JPG)
+![A screenshot of filtering data visualization report in Power BI](/images/us-bank-failures-since-2000/data-visualization-example.JPG)
 
 We can simply see:
 1. Arizona has had a total of 15 bank failures from 2009 through 2025 (via the top chart).
