@@ -62,5 +62,5 @@ A slideshow explaining simply how to perform division order interest calculation
 ## Data analysis
 The items below are hosted on this site.
 
-- [U.S. bank failures since 2000](/data-analysis/us-bank-failures-since-2000)<br>
+- [U.S. bank failures since 2000](/data-analysis/us-bank-failures-since-2000.md)<br>
 Data analysis of U.S. bank failures from 10/01/2000 through 01/17/2025
