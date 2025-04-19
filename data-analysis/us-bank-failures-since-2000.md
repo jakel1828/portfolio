@@ -40,7 +40,7 @@ Below are answers to some of the questions I had when considering this dataset.
 
 I first asked myself which states had the most total failures in the 21st century.
 
-![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by state](/images/us-bank-failures-since-2000/by-state.jpg)
+![A chart made in Microsoft Excel showing the total U.S. bank failures since 2000 by state](/data-analysis/images/us-bank-failures-since-2000/by-state.jpg)
 
 Georgia dominated with a total of 93, accounting for 16% of all bank failures.
 
