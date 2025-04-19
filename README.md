@@ -1,5 +1,3 @@
-# Jake LaCaze's portfolio
-
 Below are the works making up my public writing portfolio.
 
 The portfolio is divided into the following sections:
