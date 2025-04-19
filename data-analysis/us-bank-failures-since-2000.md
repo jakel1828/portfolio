@@ -158,7 +158,7 @@ We can simply see:
 3. The bottom table shows us that Enterprise Bank & Trust and MidFirst Bank acquired the most failed banks, with 2 each.
 4. The top table (listing the cities with failed banks) looks useless in this example, but it might come in handy when looking at a state like Georgia, which led the pack with the most bank failures from 2000 through 2025.
 
-If you want to look at my Power BI dashboard, you can find the file [here](/files/portfolio/data-analysis/us-bank-failures-since-2000.pbix).
+If you want to look at my Power BI dashboard, you can find the file [here](/data-analysis/us-bank-failures-since-2000.pbix).
 
 
 
