@@ -2,6 +2,14 @@
 
 Below are the works making up my public writing portfolio.
 
+The portfolio is divided into the following sections:
+- [Content writing](#content-writing)
+  - [AI (logistics optimization)](#ai-logistics-optimization)
+  - [Managed IT & managed security](#managed-it-managed-security)
+- [Technical writing](#technical-writing)
+- [Oil & gas education](#oil-gas-education)
+- [Data analysis](#data-analysis)
+
 ## Content writing
 
 The featured links will open in a new tab and direct you to external websites.
